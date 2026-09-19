@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BestHardcoreSMP.aternos.me:44787",
+    "ip": "BestHardcoreSMP.aternos.me",
     "port": 44787,
     "version": "1.20.1",
     "try-creative": false
